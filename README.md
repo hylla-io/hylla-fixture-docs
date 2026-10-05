@@ -10,8 +10,7 @@ A Markdown Hylla ingest fixture with one PDF. Every link below is known exactly.
 - [Setup](guide/setup.md#install)
 - [API reference](reference/api.md)
 - [API sheet](reference/sheet.pdf)
-- [FAQ](reference/faq.md)
-- [Scratch notes](notes/scratch.md)
+- [Ideas](notes/ideas.md)
 - [Changelog](CHANGELOG.md)
 - [The guide folder](guide/)
 

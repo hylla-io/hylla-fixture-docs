@@ -15,6 +15,6 @@ Adds an item. Configuration is described in [configure notes](../guide/setup.md#
 ## Errors
 
 Errors are described in [the setup guide](../guide/setup.md#errors), a section that does not
-exist. Install steps for a Mac are in [macOS](../guide/setup.md#macos).
+exist. Install steps for a Mac are in [Mac](../guide/setup.md#mac).
 
 [setup-notes]: ../guide/setup.md#notes

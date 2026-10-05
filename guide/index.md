@@ -6,9 +6,6 @@ Read the guide in order.
 
 1. [Install](setup.md#install) the tool.
 2. Check the [API](../reference/api.md#endpoints).
-3. Read the [FAQ][faq].
-
-[faq]: ../reference/faq.md
 
 ## See also
 
