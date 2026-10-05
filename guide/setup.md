@@ -4,9 +4,9 @@ Setup takes two steps.
 
 ## Install
 
-Install the tool for your system.
+Install the tool for your system. It takes about a minute.
 
-### macOS
+### Mac
 
 Use the package manager.
 
